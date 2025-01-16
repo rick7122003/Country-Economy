@@ -1,14 +1,39 @@
 # Country-Economy Analysis
 Country Economy 2000-2023:  USA, Canada, Australia, Russia, India, China
 
-
-
 Machine Learning outcomes: Model: GradientBoostingRegressor has highest accuracy R-squared: 0.977106391701919 & Mean Absolute Error (MAE): 0.1449901012841944
 Recommend adoption to predicting Unemployment rate versus variables as follows:
 
 # Unemployment rate versus Relevant features
 X = df[['Poverty Rate (%)', 'Inflation Rate (%)', 'Literacy Rate (%)']]
 y = df['Unemployment Rate (%)']
+
+
+Based on the provided evaluation metrics, RandomForestRegressor appears to be the most promising model for predicting unemployment rates in this case.
+
+Here's a breakdown:
+
+R-squared:
+
+RandomForestRegressor achieves the highest R-squared (0.9861), indicating that it explains a significantly larger proportion of the variance in the data compared to other models. This suggests it captures the underlying relationships in the data more effectively.
+Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE):
+
+RandomForestRegressor consistently demonstrates the lowest values for these error metrics, indicating that its predictions are closer to the actual values compared to other models. Lower error values generally imply better model performance.
+Therefore, based on these metrics, the RandomForestRegressor appears to be the most suitable model for predicting unemployment rates in this scenario.
+
+Considerations:
+
+Model Complexity: While RandomForestRegressor performs well, it's important to consider its complexity.
+Interpretability: If model interpretability is crucial, Linear Regression might be preferred due to its simpler structure and easier interpretability of coefficients.
+Data Size: For very large datasets, training a RandomForestRegressor might be computationally more expensive than simpler models.
+Recommendations:
+
+Hyperparameter Tuning: Further fine-tune the hyperparameters of the RandomForestRegressor (e.g., n_estimators, max_depth, min_samples_split) to potentially improve its performance.
+Cross-validation: Use techniques like k-fold cross-validation to obtain a more robust estimate of model performance and prevent overfitting.
+Domain Expertise: Consider incorporating domain-specific knowledge to further refine the model and select the most suitable features.
+
+
+METRICS PRINT OUT AND VISUALIZATION:
 
 
 Model: LinearRegression
