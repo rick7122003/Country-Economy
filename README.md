@@ -33,7 +33,9 @@ Cross-validation: Use techniques like k-fold cross-validation to obtain a more r
 Domain Expertise: Consider incorporating domain-specific knowledge to further refine the model and select the most suitable features.
 
 
+
 METRICS PRINT OUT AND VISUALIZATION:
+
 
 
 Model: LinearRegression
