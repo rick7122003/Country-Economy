@@ -1,0 +1,19 @@
+This dataset offers a detailed comparison of key global players like USA, Russia, China, India, Canada, Australia, and others across various economic, social, and environmental metrics. By comparing countries on indicators such as GDP, population, healthcare access, education levels, internet penetration, military spending, and much more, this dataset provides valuable insights for researchers, policymakers, and analysts.
+
+🔍 Key Comparisons:
+
+Economic Indicators: GDP, inflation rates, unemployment rates, etc.
+Social Indicators: Literacy rates, healthcare quality, life expectancy, etc.
+Environmental Indicators: CO2 emissions, renewable energy usage, protected areas, etc.
+Technological Advancements: Internet users, mobile subscriptions, tech exports, etc.
+Military Spending: Defense budgets, military personnel numbers, etc.
+This dataset is perfect for those who want to compare countries in terms of development, growth, and global standing. It can be used for data analysis, policy planning, research, and even education.
+
+✨ Key Features:
+
+Comprehensive Coverage: Includes multiple countries with key metrics.
+Multiple Domains: Economic, social, environmental, technological, and military data.
+Up-to-date Information: Covers data from the last decade to provide recent insights.
+Research Ready: Suitable for academic research, visualizations, and analysis.
+
+Dataset has been taken from: https://www.kaggle.com/datasets/waqi786/country-comparison-dataset-usa-and-more
