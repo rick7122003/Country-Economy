@@ -19,12 +19,20 @@ Mean Absolute Error (MAE): 0.4457972722064925
 --------------------
 
 
+![image](https://github.com/user-attachments/assets/bf7b627b-4031-44c3-afc4-0b034c11e589)
+
+
+
 Model: RandomForestRegressor
 R-squared: 0.9861173626769679
 Mean Squared Error (MSE): 0.021371021034482802
 Root Mean Squared Error (RMSE): 0.14618830676385441
 Mean Absolute Error (MAE): 0.12467931034482742
 --------------------
+
+
+![image](https://github.com/user-attachments/assets/9ea6c37d-d91e-419d-b52a-faef86476ae0)
+
 
 
 Model: GradientBoostingRegressor
@@ -35,12 +43,24 @@ Mean Absolute Error (MAE): 0.1449901012841944
 --------------------
 
 
+
+![image](https://github.com/user-attachments/assets/b68154cb-838b-489c-b7d5-15a208899a1f)
+
+
+
+
 Model: SVR
 R-squared: 0.730978320390505
 Mean Squared Error (MSE): 0.41413370095954843
 Root Mean Squared Error (RMSE): 0.6435322066218196
 Mean Absolute Error (MAE): 0.5539305556878131
 --------------------
+
+
+![image](https://github.com/user-attachments/assets/47293346-eb56-43ac-a4b8-bb15f92e63f0)
+
+
+
 
 
 Machine learning Python Codes:
